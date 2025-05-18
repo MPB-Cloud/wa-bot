@@ -1,0 +1,21 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "Bot para enviar WhatsApp automático",
+  "main": "index.js",
+  "scripts": {
+    B
+test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPB-Cloud/wa-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MPB-Cloud/wa-bot/issues"
+  },
+  "homepage": "https://github.com/MPB-Cloud/wa-bot#readme"
+}
